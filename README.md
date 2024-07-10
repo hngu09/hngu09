@@ -1,5 +1,7 @@
 ## Hi there 👋
+My name is Hung Nguyen and I'm currently a junior in Biological Engineering at Wentworth Institute of Technology.
 
+I'm still trying to figure out what I want to do with my degree, but I hope to combine it with learning Data Science on my own time in order to get my foot into the door with Bioinformatics.
 <!--
 **hngu09/hngu09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
